@@ -1,1 +1,1 @@
-# weak-grid-simulation-RTDS8888
+# weak-grid-simulation-RTDS
